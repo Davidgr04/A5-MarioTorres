@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+body {
+    font-family: 'Rubik', sans-serif;
+    margin: 0%;
+}
+
+#header {
+    height: 100vh;
+    background-image: url(../img/wp2559457.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#partedos {
+    background: linear-gradient(30deg, rgb(20, 220, 133), rgb(55, 160, 45), rgb(86, 225, 65), rgb(158, 205, 92), rgb(6, 128, 0));
+    text-align: center;
+}
+
+.tituloh {
+    margin: 0%;
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(30deg, rgb(20, 137, 220), rgb(45, 160, 152), rgb(65, 225, 116), rgb(158, 205, 92), rgb(122, 128, 0));
+    border-radius: 10px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#fother {
+    text-align: center;
+    color: rgba(194, 194, 194, 0.986);
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.margenes {
+    margin: 0%;
+}
